@@ -22,3 +22,5 @@ This e-commerce site allows users to browse products, add items to a shopping ca
 ## Purpose
 This project was created to practice building a **fully interactive front-end application** and applying responsive design principles. It demonstrates my ability to manage **state, storage, and user interactivity** without a backend.
 
+# Live Demo
+[View the deployed project here](https://matthewjmon.github.io/e-commerce-website/)
